@@ -40,5 +40,5 @@ EXPOSE 3000
 # Comando por defecto para iniciar la aplicación
 CMD ["npm", "start"]
 
-COPY .env.local .env.local
+#COPY .env.local .env.local
 
